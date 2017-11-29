@@ -44,7 +44,7 @@ Step 2.
 
 cd ~
 
-curl -Lo builder.sh https://raw.githubusercontent.com/crombiecrunch/cryptoautobuild/master/builder.sh
+curl -Lo builder.sh https://github.com/masterhash-us/cryptoautobuild/blob/master/builder.sh
 
 bash builder.sh
 
